@@ -1,0 +1,18 @@
+# Bytecode
+*.pyc
+__pycache__/
+
+# SQLite DB
+db.sqlite3
+
+# Django static/media
+/static/
+/media/
+
+# Environment
+.env
+.env.*
+
+# VSCode & OS
+.vscode/
+*.log
